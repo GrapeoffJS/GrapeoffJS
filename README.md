@@ -8,8 +8,9 @@ A NodeJS Back-End Developer From Saint Petersburg
 - 🧑 17 y.o
 - 🖥️ Currently working on a Headless CMS
 - 📫 How to reach me **grapeoff.official@gmail.com**
-- 💬 Ask me about **NodeJS, NestJS, Express, MongoDB, PostgreSQL, etc.**
-
+- 👅 Languages: Russian (Native), English (B1)
+- 🐱 Trying to make NestJS libraries
+- 🔫 Making own Discord server
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/507949027896328193) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://ru.stackoverflow.com/users/343526) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCI9pasxwYGgSHSW93qF-BMw) 
