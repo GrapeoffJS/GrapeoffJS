@@ -2,7 +2,7 @@
 A NodeJS Back-End Developer From Saint Petersburg
 
 # 💫 About Me:
-- Currently working on a Headless CMS
+- 🖥️ Currently working on a Headless CMS
 - 📫 How to reach me **grapeoff.official@gmail.com**
 - 💬 Ask me about **NodeJS, NestJS, Express, MongoDB, PostgreSQL, etc.**
 
