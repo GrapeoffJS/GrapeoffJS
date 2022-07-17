@@ -1,7 +1,11 @@
 # Hi there, I am Dmitriy
 A NodeJS Back-End Developer From Saint Petersburg
 
+![GitHub Snake Light](https://raw.githubusercontent.com/GrapeoffJS/GrapeoffJS/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/GrapeoffJS/GrapeoffJS/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 # 💫 About Me:
+- 🧑 17 y.o
 - 🖥️ Currently working on a Headless CMS
 - 📫 How to reach me **grapeoff.official@gmail.com**
 - 💬 Ask me about **NodeJS, NestJS, Express, MongoDB, PostgreSQL, etc.**
