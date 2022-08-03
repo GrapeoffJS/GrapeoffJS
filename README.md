@@ -7,7 +7,7 @@ A NodeJS Back-End Developer From Saint Petersburg
 # 💫 About Me:
 - 🧑 17 y.o
 - 🖥️ Currently working on a Headless CMS
-- 📫 How to reach me **grapeoff.official@gmail.com**
+- 📫 How to reach me: **grapeoff.official@gmail.com**
 - 👅 Languages: Russian (Native), English (B1)
 - 🐱 Trying to make NestJS libraries
 - 🔫 Making own Discord server
